@@ -17,6 +17,7 @@
   "author": "Rojhat Balta <rojhatbalta@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.7",
     "gh-pages": "^6.1.1",
     "izitoast": "^1.4.0",
     "simplelightbox": "^2.14.3",
